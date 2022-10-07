@@ -1,0 +1,6 @@
+dashboard_host: "oss.digivisiodev.fi"
+pvc_size: "11Gi"
+cluster_issuer: "letsencrypt-staging"
+dashboard_user: "admin"
+dashboard_password: "admin"
+dashboard_secret_name: "opensearch_dashboard-secret"
